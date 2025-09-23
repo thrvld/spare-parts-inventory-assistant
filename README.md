@@ -1,3 +1,3 @@
-Spare Part Inventory assisstant  
+Spare Part Inventory Assistant  
 
-Code is not fuctional.
+Code is not functional.
